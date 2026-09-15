@@ -99,17 +99,17 @@ Customer Rank
 
 ## Executive Summary
 
-![Executive Summary](images/Executive_Summary.png?raw=true)
+![Executive Summary](Customer_Analysis.png)
 
 ## Product Analysis
 
-![Product Analysis](images/Product_Analysis.png)
+![Product Analysis](Product_Analysis.png)
 
 ## Customer Analysis
 
-![Customer Analysis](images/Customer_Analysis.png)
+![Customer Analysis](Customer_Analysis.png)
 
 ## Regional Analysis
 
-![Regional Analysis](images/Regional_Analysis.png)
+![Regional Analysis](Regional_Analysis.png)
 
